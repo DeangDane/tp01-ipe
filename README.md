@@ -24,8 +24,8 @@ View it in GitHub you will see it looks good.
 ## Commands to run
 The following commands to initial git:
 ```sh
-git config --global user.name taltongsreng
-git config --global user.email ttongsreng@gmail.com
+git config --global user.name deangdane
+git config --global user.email deangdane9@gmail.com
 ```
 Create new folder TP01-IPE.
 Open Git Bash 
@@ -33,7 +33,7 @@ Open Git Bash
 ```sh
 cd /d/I3/VCS/TP01-IPE
 git init
-git remote add origin/main https://github.com/taltongsreng/tp01-ipe.git
+git remote add origin/main https://github.com/deangdane/tp01-ipe.git
 git branch -M main
 ```
 Create README.md file
